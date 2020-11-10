@@ -32,15 +32,17 @@ public class Challenge {
 
         2. a.equals(b) must return the same result as b.equals(a) - equals is symmetric.
 
-        3. Attempting to add a duplicate to a Set must result in no change to the set (so
-        the original value is not replaced by the new one).
+        3. Attempting to add a duplicate to a Set must result in no change to the set
+        (so the original value is not replaced by the new one).
 
-        4. Attempting to add a duplicate to a Map results in the original being replaced
-        by the new object.
+        4. Attempting to add a duplicate to a Map results in the original being
+        replaced by the new object.
 
-        5. Two bodies with the same name but different designations can be added to the same set.
+        5. Two bodies with the same name but different designations can be added to
+        the same set.
 
-        6. Two bodies with the same name but different designations can be added to the same map,
+        6. Two bodies with the same name but different designations can be added to
+        the same map,
         and can be retrieved from the map.
 */
 }
